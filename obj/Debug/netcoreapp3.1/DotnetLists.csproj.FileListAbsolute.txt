@@ -1,0 +1,13 @@
+C:\dev\DotnetLists\bin\Debug\netcoreapp3.1\DotnetLists.exe
+C:\dev\DotnetLists\bin\Debug\netcoreapp3.1\DotnetLists.deps.json
+C:\dev\DotnetLists\bin\Debug\netcoreapp3.1\DotnetLists.runtimeconfig.json
+C:\dev\DotnetLists\bin\Debug\netcoreapp3.1\DotnetLists.runtimeconfig.dev.json
+C:\dev\DotnetLists\bin\Debug\netcoreapp3.1\DotnetLists.dll
+C:\dev\DotnetLists\bin\Debug\netcoreapp3.1\DotnetLists.pdb
+C:\dev\DotnetLists\obj\Debug\netcoreapp3.1\DotnetLists.csprojAssemblyReference.cache
+C:\dev\DotnetLists\obj\Debug\netcoreapp3.1\DotnetLists.csproj.CoreCompileInputs.cache
+C:\dev\DotnetLists\obj\Debug\netcoreapp3.1\DotnetLists.AssemblyInfoInputs.cache
+C:\dev\DotnetLists\obj\Debug\netcoreapp3.1\DotnetLists.AssemblyInfo.cs
+C:\dev\DotnetLists\obj\Debug\netcoreapp3.1\DotnetLists.dll
+C:\dev\DotnetLists\obj\Debug\netcoreapp3.1\DotnetLists.pdb
+C:\dev\DotnetLists\obj\Debug\netcoreapp3.1\DotnetLists.genruntimeconfig.cache
