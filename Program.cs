@@ -15,11 +15,21 @@ namespace DotnetLists
 
             Console.WriteLine(meuArray.Length);
 
+            /*
             //percorrendo o array
             for (var index = 0; index < meuArray.Length; index++)
             {
                 Console.WriteLine(meuArray[index]);
             }
+            */
+
+
+            // foreach
+            foreach (var item in meuArray)
+            {
+                Console.WriteLine(item);
+            }
+
 
         }
     }
