@@ -56,13 +56,28 @@ namespace DotnetLists
                 Console.WriteLine("Ops, algo deu errado!");
             }
 
+            finally
+            {
+                Console.WriteLine("fim");
+            }
+
 
         }
 
         static void Cadastrar(string texto)
         {
             if (string.IsNullOrEmpty(texto))
-                throw new Exception("Texto não pode ser vazio");
+                throw new MinhaException(DateTime.Now);
+        }
+
+        public class MinhaException : Exception
+        {
+            public MinhaException(DateTime date)
+            {
+                QuandoAconteceu = date;
+            }
+
+            public DateTime QuandoAconteceu { get; set; }
         }
 
 
